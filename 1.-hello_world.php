@@ -6,7 +6,5 @@
 	Multiline
 */
 
-	$a = 1 + 2;
-
 	echo 'Hello world', 'Hello luis';
  ?>
